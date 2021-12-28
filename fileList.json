@@ -1,14 +1,18 @@
 {
     "FileList": [
-        {"fileName": "file1.exe", "url":"https://github.com/", "execution": true },
-        {"fileName": "file2", "url":"https://github.com/"},
-        {"fileName": "file3", "url":"https://github.com/"},
-        {"fileName": "file4", "url":"https://github.com/"},
-        {"fileName": "file5", "url":"https://github.com/"},
-        {"fileName": "file6", "url":"https://github.com/"},
-        {"fileName": "file7", "url":"https://github.com/"},
-        {"fileName": "file8", "url":"https://github.com/"},
-        {"fileName": "file9", "url":"https://github.com/"},
-        {"fileName": "file10", "url":"https://github.com/"}
+        {"fileName": "test1.zip", "url":"NHNasset/test1.zip", "execution": true },
+        {"fileName": "file2.zip", "url":"NHNasset/test2.zip"},
+        {"fileName": "file3.zip", "url":"NHNasset/test3.zip"},
+        {"fileName": "file4.zip", "url":"https://github.com/"},
+        {"fileName": "file5.zip", "url":"https://github.com/"},
+        {"fileName": "file6.zip", "url":"https://github.com/"},
+        {"fileName": "file7.zip", "url":"https://github.com/"},
+        {"fileName": "file8.zip", "url":"https://github.com/"},
+        {"fileName": "file9.zip", "url":"https://github.com/"},
+        {"fileName": "file10.zip", "url":"https://github.com/"}
+        {"fileName": "file11.zip", "url":"https://github.com/"}
+        {"fileName": "file12.zip", "url":"https://github.com/"}
+        {"fileName": "file13.zip", "url":"https://github.com/"}
+        {"fileName": "file14.zip", "url":"https://github.com/"}
     ]
 }
